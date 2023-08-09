@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eradax
-- 👀 I’m interested in minecraft programing 
-- 🌱 I’m currently learning minecraft client side moding
-- 💞️ I’m looking to collaborate on nothing right now 
+- 👀 I’m interested in math and competitive programming
+- 🌱 I’m currently learning latex and go 
 - 📫 How to reach me erikadebahr@gmail.com 
 
 <!---
